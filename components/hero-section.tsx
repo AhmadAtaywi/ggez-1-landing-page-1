@@ -65,7 +65,7 @@ export function HeroSection() {
               Play Video
             </button>
             <a
-              href="#coins"
+              href="/signup"
               className="group flex items-center gap-2 rounded-lg bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground transition-all hover:opacity-90"
             >
               Buy GGEZ1 Coins
